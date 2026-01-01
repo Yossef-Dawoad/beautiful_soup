@@ -1,3 +1,8 @@
+## 0.3.1
+
+- Added support for `:nth-child()` and `:first-child` selectors in `find` and `findAll` methods.
+- Supported expressions include integers (`2`), keywords (`odd`, `even`), and formulas (`2n+1`).
+
 ## 0.3.0
 
 - Added new **Modifying the Tree** methods: `newTag()`, `clear()`, `decompose()`, `wrap()`,
